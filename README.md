@@ -7,6 +7,9 @@ By using an IR Range Sensor attached to the door, this project is also able to d
 A summary of the commands can be seen here:
 
 'Check' - Replies with if the garage door is currently open or closed.
+
 'Open' - Opens the garage door if it's closed, does nothing if it's open.
+
 'Close' - Closes the garage door if it's open, does nothing if it's closed.
+
 'Kill' - Kills the script.
