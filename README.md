@@ -1,4 +1,4 @@
-SmartGarage is a simple Raspberry Pi app that monitors an email account for simple commands such as Open, Close, Check and Kill. Any mobile phone can send a message to the email account (specified in email_scraper.php) with the above commands.
+SmartGarage is a simple Raspberry Pi app that monitors an email account for commands such as Open, Close, Check and Kill. Any mobile phone can send a message to the email account (specified in email_scraper.php) with the above commands.
 
 When a command is received, the RaspberryPi outputs a high signal for two seconds which, when accompanied by a transistor, shorts a garage door remote and opens/closes the door.
 
